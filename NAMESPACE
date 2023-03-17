@@ -3,6 +3,7 @@
 export(apc)
 export(describe_md)
 export(describe_qd)
+export(dp_apc)
 export(fredmd)
 export(fredqd)
 export(res_overlay.twtp)
